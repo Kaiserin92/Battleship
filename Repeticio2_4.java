@@ -27,7 +27,6 @@ public class Repeticio2_4 {
         			if(i!=0) {
             			System.out.print(" * ");
         			}
-        			
         		}
         		if(i!=0) {
         			System.out.println();
