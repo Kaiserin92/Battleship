@@ -5,6 +5,7 @@ import java.util.Scanner;
 import java.util.Random;
 import java.util.Scanner;
 public class Repeticio2_4 {
+	//canvi ALEIX
     public static void main (String[] args){
         Scanner read = new Scanner(System.in);
         Random random = new Random();
