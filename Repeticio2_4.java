@@ -19,6 +19,7 @@ public class Repeticio2_4 {
         boolean guanya=false;
         System.out.println(columna + " "+ fila);
         //BUCLE FINS QUE JUGADOR GUANYA
+		
         do {
         	//BUCLE PER MOSTRAR EL TAULELL DE JOC
             for(int i=0; i<5;i++) {
